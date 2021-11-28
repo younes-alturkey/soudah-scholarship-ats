@@ -1,8 +1,8 @@
-<h1 align="center">
+<h1>
   <br>
 <a href="https://soudah-ats.netlify.app" target="_blank">Soudah Development Scholarship ATS</a>
 
-<p align="center">
+<p>
   <a href="https://soudah-ats.netlify.app" target="_blank"><img src="https://github.com/younes-alturkey/soudah-scholarship-ats/blob/main/demo.gif" alt="demo"/></a>
 </p>
 
