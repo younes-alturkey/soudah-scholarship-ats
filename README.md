@@ -8,12 +8,17 @@
 
 ## Client - العميل
 
+<br/>
 [Soudah Development - السودة للتطوير](http://soudah.sa/)
 
 ## Developer - المطور
 
+<br/>
+
 > Younes Alturkey - يونس التركي
 
-> GitHub: [@younes-alturkey](https://github.com/younes-alturkey) &nbsp;&middot;&nbsp;
-> Website: [younesalturkey.sa](https://younesalturkey.sa) &nbsp;&middot;&nbsp;
 > LinkedIn: [younes-alturkey](https://www.linkedin.com/in/younes-alturkey/)
+
+> GitHub: [@younes-alturkey](https://github.com/younes-alturkey)
+
+> Website: [younesalturkey.sa](https://younesalturkey.sa)
