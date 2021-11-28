@@ -9,10 +9,10 @@
 ## Client - العميل
 
 <br/>
-
-<img src="https://eatnstays.com/wp-content/uploads/2021/02/SDC-logo_1614182214.jpg">
-
 [Soudah Development Company](https://www.google.com)
+
+<img src="https://github.com/younes-alturkey/soudah-scholarship-ats/blob/main/src/assets/images/soudah.png">
+<img src="https://github.com/younes-alturkey/soudah-scholarship-ats/blob/main/src/assets/images/swiss.png">
 
 ## Developer - المطور
 
