@@ -9,7 +9,9 @@
 ## Client - العميل
 
 <br/>
-[Soudah Development - السودة للتطوير](http://soudah.sa/)
+
+<img src="https://github.com/younes-alturkey/soudah-scholarship-ats/blob/main/src/assets/images/sdc.svg">
+[Soudah Development Company](https://www.google.com)
 
 ## Developer - المطور
 
