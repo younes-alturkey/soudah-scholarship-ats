@@ -1,9 +1,9 @@
-<a align="center" href="https://soudah-ats.netlify.app" target="_blank">Live Demo</a>
+<a align="center" href="https://soudah-ats.netlify.app">Live Demo</a>
 
 <br/>
 
 <p>
-  <a href="https://soudah-ats.netlify.app" target="_blank"><img src="https://github.com/younes-alturkey/soudah-scholarship-ats/blob/main/demo.gif" alt="demo"/></a>
+  <a href="https://soudah-ats.netlify.app"><img src="https://github.com/younes-alturkey/soudah-scholarship-ats/blob/main/demo.gif" alt="demo"/></a>
 </p>
 
 ## Client - العميل
