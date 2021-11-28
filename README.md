@@ -11,6 +11,8 @@
 <br/>
 
 <img src="https://github.com/younes-alturkey/soudah-scholarship-ats/blob/main/src/assets/images/sdc.svg">
+<img src="https://github.com/younes-alturkey/soudah-scholarship-ats/blob/main/src/assets/images/pif.svg">
+<img src="https://github.com/younes-alturkey/soudah-scholarship-ats/blob/main/src/assets/images/v2030.svg">
 [Soudah Development Company](https://www.google.com)
 
 ## Developer - المطور
