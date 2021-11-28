@@ -11,6 +11,7 @@
 <br/>
 
 <img src="https://eatnstays.com/wp-content/uploads/2021/02/SDC-logo_1614182214.jpg">
+<img src="https://saudigazette.com.sa/uploads/images/2020/11/22/1702710.jpg">
 
 [Soudah Development Company](https://www.google.com)
 
